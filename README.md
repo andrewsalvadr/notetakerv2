@@ -1,0 +1,1 @@
+1. Another note taker with inline paper-like notes.
